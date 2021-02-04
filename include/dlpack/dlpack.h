@@ -61,6 +61,7 @@ typedef enum {
    * The semantics can differ depending on the implementation.
    */
   kDLExtDev = 12,
+  kDLEDNN = 15,
 } DLDeviceType;
 
 /*!
